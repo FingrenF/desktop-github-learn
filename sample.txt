@@ -1,1 +1,2 @@
 ini adalah sample txt
+adding new line at sample.txt
